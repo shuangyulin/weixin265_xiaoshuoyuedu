@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#A27DE3",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "帮助中心添加",
+  "usingComponents": {
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}
